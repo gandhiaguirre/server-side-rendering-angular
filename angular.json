@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ServerSideRenderAngularUniversal"
+    }
+  },
+  "defaultProject": "ServerSideRenderAngularUniversal",
+  "cli": {
+    "analytics": false
+  }
 }
